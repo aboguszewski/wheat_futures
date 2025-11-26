@@ -2,6 +2,10 @@
 This repository showcases exploration and feature engineering using real world weather, macroeconomic, international trade and futures market datasets.  
 The datasets are ready for modelling!
 
+### Data Download
+Due to the large size of the datasets I uploaded them to Kaggle.  
+They can be found [*here*](https://www.kaggle.com/datasets/aboguszewski/wheat-futures-forecasting/data) and should be placed in a separate `data` directory.
+
 ### Sources
 - Weather and Futures datasets - [*Guillem SD*](https://www.kaggle.com/guillemservera), Kaggle
 - Consumer Product Index data - [*Federal Reserve Bank of St. Louis*](https://fred.stlouisfed.org/series/CPIAUCSL)

@@ -1,6 +1,5 @@
 ## Wheat Future Price Forecasting
 This repository showcases exploration and feature engineering using real world weather, macroeconomic, international trade and futures market datasets.  
-The datasets are ready for modelling!
 
 ### Data Download
 Due to the large size of the datasets I uploaded them to Kaggle.  
